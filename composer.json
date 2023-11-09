@@ -1,6 +1,6 @@
 {
-    "name": "ivanhoe011/laravel-generator",
-    "description": "Fork of Smarter Vision Generator",
+    "name": "smartervision/laravel-generator",
+    "description": "Smarter Vision Generator",
     "keywords": [
         "laravel",
         "api",
